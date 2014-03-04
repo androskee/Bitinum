@@ -1,0 +1,5 @@
+.DS_Store
+dist/
+build/
+src/bitinumd
+mac_build_qt_helper.sh
